@@ -1,0 +1,26 @@
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\API\Saitynu API\Saitynu API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\API\Saitynu API\Saitynu API\bin\Debug\net5.0\appsettings.json
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\API\Saitynu API\Saitynu API\bin\Debug\net5.0\Saitynu API.exe
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\API\Saitynu API\Saitynu API\bin\Debug\net5.0\Saitynu API.deps.json
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\API\Saitynu API\Saitynu API\bin\Debug\net5.0\Saitynu API.runtimeconfig.json
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\API\Saitynu API\Saitynu API\bin\Debug\net5.0\Saitynu API.runtimeconfig.dev.json
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\API\Saitynu API\Saitynu API\bin\Debug\net5.0\Saitynu API.dll
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\API\Saitynu API\Saitynu API\bin\Debug\net5.0\ref\Saitynu API.dll
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\API\Saitynu API\Saitynu API\bin\Debug\net5.0\Saitynu API.pdb
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\API\Saitynu API\Saitynu API\obj\Debug\net5.0\Saitynu API.csprojAssemblyReference.cache
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\API\Saitynu API\Saitynu API\obj\Debug\net5.0\Saitynu API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\API\Saitynu API\Saitynu API\obj\Debug\net5.0\Saitynu API.AssemblyInfoInputs.cache
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\API\Saitynu API\Saitynu API\obj\Debug\net5.0\Saitynu API.AssemblyInfo.cs
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\API\Saitynu API\Saitynu API\obj\Debug\net5.0\Saitynu API.csproj.CoreCompileInputs.cache
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\API\Saitynu API\Saitynu API\obj\Debug\net5.0\Saitynu API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\API\Saitynu API\Saitynu API\obj\Debug\net5.0\staticwebassets\Saitynu API.StaticWebAssets.Manifest.cache
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\API\Saitynu API\Saitynu API\obj\Debug\net5.0\staticwebassets\Saitynu API.StaticWebAssets.xml
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\API\Saitynu API\Saitynu API\obj\Debug\net5.0\scopedcss\bundle\Saitynu API.styles.css
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\API\Saitynu API\Saitynu API\obj\Debug\net5.0\Saitynu API.RazorTargetAssemblyInfo.cache
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\API\Saitynu API\Saitynu API\obj\Debug\net5.0\Saitynu API.dll
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\API\Saitynu API\Saitynu API\obj\Debug\net5.0\ref\Saitynu API.dll
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\API\Saitynu API\Saitynu API\obj\Debug\net5.0\Saitynu API.pdb
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\API\Saitynu API\Saitynu API\obj\Debug\net5.0\Saitynu API.genruntimeconfig.cache
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\API\Saitynu API\Saitynu API\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\API\Saitynu API\Saitynu API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\API\Saitynu API\Saitynu API\obj\Debug\net5.0\Saitynu API.csproj.CopyComplete
