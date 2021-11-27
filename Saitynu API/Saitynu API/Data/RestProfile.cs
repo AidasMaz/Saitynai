@@ -1,5 +1,6 @@
 ﻿using AutoMapper;
 using Saitynu_API.Data.Dtos;
+using Saitynu_API.Data.Dtos.Auth;
 using Saitynu_API.Data.Dtos.GameLevels;
 using Saitynu_API.Data.Dtos.Messages;
 using Saitynu_API.Data.Dtos.PlayerLevels;
@@ -31,6 +32,8 @@ namespace Saitynu_API.Data
             CreateMap<PlayerLevel, PlayerLevelDto>();
             CreateMap<CreatePlayerLevelDto, PlayerLevel>();
             CreateMap<UpdatePlayerLevelDto, PlayerLevel>();
+
+            CreateMap<RestUser, UserDto>();
         }
     }
 }

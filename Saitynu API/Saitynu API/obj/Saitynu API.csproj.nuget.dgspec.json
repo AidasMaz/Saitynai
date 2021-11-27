@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aidas\\Desktop\\Septintas pusmetis\\Saitynai\\API projektas\\API\\Saitynu API\\Saitynu API\\Saitynu API.csproj": {}
+    "C:\\Users\\Aidas\\Desktop\\Septintas pusmetis\\Saitynai\\API projektas\\Repozitorija\\saitynai\\Saitynu API\\Saitynu API\\Saitynu API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aidas\\Desktop\\Septintas pusmetis\\Saitynai\\API projektas\\API\\Saitynu API\\Saitynu API\\Saitynu API.csproj": {
+    "C:\\Users\\Aidas\\Desktop\\Septintas pusmetis\\Saitynai\\API projektas\\Repozitorija\\saitynai\\Saitynu API\\Saitynu API\\Saitynu API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aidas\\Desktop\\Septintas pusmetis\\Saitynai\\API projektas\\API\\Saitynu API\\Saitynu API\\Saitynu API.csproj",
+        "projectUniqueName": "C:\\Users\\Aidas\\Desktop\\Septintas pusmetis\\Saitynai\\API projektas\\Repozitorija\\saitynai\\Saitynu API\\Saitynu API\\Saitynu API.csproj",
         "projectName": "Saitynu API",
-        "projectPath": "C:\\Users\\Aidas\\Desktop\\Septintas pusmetis\\Saitynai\\API projektas\\API\\Saitynu API\\Saitynu API\\Saitynu API.csproj",
+        "projectPath": "C:\\Users\\Aidas\\Desktop\\Septintas pusmetis\\Saitynai\\API projektas\\Repozitorija\\saitynai\\Saitynu API\\Saitynu API\\Saitynu API.csproj",
         "packagesPath": "C:\\Users\\Aidas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aidas\\Desktop\\Septintas pusmetis\\Saitynai\\API projektas\\API\\Saitynu API\\Saitynu API\\obj\\",
+        "outputPath": "C:\\Users\\Aidas\\Desktop\\Septintas pusmetis\\Saitynai\\API projektas\\Repozitorija\\saitynai\\Saitynu API\\Saitynu API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -50,6 +50,28 @@
             "AutoMapper.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
               "version": "[8.1.1, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.11, )"
             }
           },
           "imports": [
@@ -70,7 +92,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,4 +1,5 @@
 ﻿using AutoMapper;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Saitynu_API.Data.Dtos;
 using Saitynu_API.Data.Dtos.GameLevels;
@@ -24,12 +25,17 @@ namespace Saitynu_API.Controllers
             _mapper = mapper;
         }
 
+        [Authorize(Roles = "Admin, Tester, Player")]
         [HttpGet]
         public async Task<IEnumerable<GameLevelDto>> GetAll()
         {
-            return (await _gameLevelsRepository.GetAll()).Select(o => _mapper.Map<GameLevelDto>(o));
+            //return (await _gameLevelsRepository.GetAll()).Select(o => _mapper.Map<GameLevelDto>(o));
+
+            var gameLevels = await _gameLevelsRepository.GetAll();
+            return gameLevels.Select(o => _mapper.Map<GameLevelDto>(o));
         }
 
+        [Authorize(Roles = "Admin, Tester, Player")]
         [HttpGet("{id}")]
         public async Task<ActionResult<GameLevelDto>> Get(int id)
         {
@@ -40,6 +46,7 @@ namespace Saitynu_API.Controllers
             return Ok(_mapper.Map<GameLevelDto>(gameLevel));
         }
 
+        [Authorize(Roles = "Admin")]
         [HttpPost]
         public async Task<ActionResult<GameLevelDto>> Post(CreateGameLevelDto gameLevelDto)
         {
@@ -50,6 +57,7 @@ namespace Saitynu_API.Controllers
             return Created($"/api/players/{gameLevel.Id}", _mapper.Map<GameLevelDto>(gameLevel));
         }
 
+        [Authorize(Roles = "Admin")]
         [HttpPut("{id}")]
         public async Task<ActionResult<GameLevelDto>> Put(int id, UpdateGameLevelDto gameLevelDto)
         {
@@ -65,6 +73,7 @@ namespace Saitynu_API.Controllers
             return Ok(_mapper.Map<GameLevelDto>(gameLevel));
         }
 
+        [Authorize(Roles = "Admin")]
         [HttpDelete("{id}")]
         public async Task<ActionResult<GameLevelDto>> Delete(int id)
         {

@@ -24,3 +24,129 @@ C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\API\Saitynu API
 C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\API\Saitynu API\Saitynu API\bin\Debug\net5.0\AutoMapper.dll
 C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\API\Saitynu API\Saitynu API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\API\Saitynu API\Saitynu API\obj\Debug\net5.0\Saitynu API.csproj.CopyComplete
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\API-repozitorija\Saitynu API\Saitynu API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\API-repozitorija\Saitynu API\Saitynu API\bin\Debug\net5.0\appsettings.json
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\API-repozitorija\Saitynu API\Saitynu API\bin\Debug\net5.0\Saitynu API.exe
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\API-repozitorija\Saitynu API\Saitynu API\bin\Debug\net5.0\Saitynu API.deps.json
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\API-repozitorija\Saitynu API\Saitynu API\bin\Debug\net5.0\Saitynu API.runtimeconfig.json
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\API-repozitorija\Saitynu API\Saitynu API\bin\Debug\net5.0\Saitynu API.runtimeconfig.dev.json
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\API-repozitorija\Saitynu API\Saitynu API\bin\Debug\net5.0\Saitynu API.dll
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\API-repozitorija\Saitynu API\Saitynu API\bin\Debug\net5.0\ref\Saitynu API.dll
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\API-repozitorija\Saitynu API\Saitynu API\bin\Debug\net5.0\Saitynu API.pdb
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\API-repozitorija\Saitynu API\Saitynu API\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\API-repozitorija\Saitynu API\Saitynu API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\API-repozitorija\Saitynu API\Saitynu API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\API-repozitorija\Saitynu API\Saitynu API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\API-repozitorija\Saitynu API\Saitynu API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\API-repozitorija\Saitynu API\Saitynu API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\API-repozitorija\Saitynu API\Saitynu API\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\API-repozitorija\Saitynu API\Saitynu API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\API-repozitorija\Saitynu API\Saitynu API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\API-repozitorija\Saitynu API\Saitynu API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\API-repozitorija\Saitynu API\Saitynu API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\API-repozitorija\Saitynu API\Saitynu API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\API-repozitorija\Saitynu API\Saitynu API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\API-repozitorija\Saitynu API\Saitynu API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\API-repozitorija\Saitynu API\Saitynu API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\API-repozitorija\Saitynu API\Saitynu API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\API-repozitorija\Saitynu API\Saitynu API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\API-repozitorija\Saitynu API\Saitynu API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\API-repozitorija\Saitynu API\Saitynu API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\API-repozitorija\Saitynu API\Saitynu API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\API-repozitorija\Saitynu API\Saitynu API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\API-repozitorija\Saitynu API\Saitynu API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\API-repozitorija\Saitynu API\Saitynu API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\API-repozitorija\Saitynu API\Saitynu API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\API-repozitorija\Saitynu API\Saitynu API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\API-repozitorija\Saitynu API\Saitynu API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\API-repozitorija\Saitynu API\Saitynu API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\API-repozitorija\Saitynu API\Saitynu API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\API-repozitorija\Saitynu API\Saitynu API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\API-repozitorija\Saitynu API\Saitynu API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\API-repozitorija\Saitynu API\Saitynu API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\API-repozitorija\Saitynu API\Saitynu API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\API-repozitorija\Saitynu API\Saitynu API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\API-repozitorija\Saitynu API\Saitynu API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\API-repozitorija\Saitynu API\Saitynu API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\API-repozitorija\Saitynu API\Saitynu API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\API-repozitorija\Saitynu API\Saitynu API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\API-repozitorija\Saitynu API\Saitynu API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\API-repozitorija\Saitynu API\Saitynu API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\API-repozitorija\Saitynu API\Saitynu API\obj\Debug\net5.0\Saitynu API.csproj.AssemblyReference.cache
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\API-repozitorija\Saitynu API\Saitynu API\obj\Debug\net5.0\Saitynu API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\API-repozitorija\Saitynu API\Saitynu API\obj\Debug\net5.0\Saitynu API.AssemblyInfoInputs.cache
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\API-repozitorija\Saitynu API\Saitynu API\obj\Debug\net5.0\Saitynu API.AssemblyInfo.cs
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\API-repozitorija\Saitynu API\Saitynu API\obj\Debug\net5.0\Saitynu API.csproj.CoreCompileInputs.cache
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\API-repozitorija\Saitynu API\Saitynu API\obj\Debug\net5.0\Saitynu API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\API-repozitorija\Saitynu API\Saitynu API\obj\Debug\net5.0\staticwebassets\Saitynu API.StaticWebAssets.Manifest.cache
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\API-repozitorija\Saitynu API\Saitynu API\obj\Debug\net5.0\staticwebassets\Saitynu API.StaticWebAssets.xml
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\API-repozitorija\Saitynu API\Saitynu API\obj\Debug\net5.0\scopedcss\bundle\Saitynu API.styles.css
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\API-repozitorija\Saitynu API\Saitynu API\obj\Debug\net5.0\Saitynu API.RazorTargetAssemblyInfo.cache
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\API-repozitorija\Saitynu API\Saitynu API\obj\Debug\net5.0\Saitynu API.csproj.CopyComplete
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\API-repozitorija\Saitynu API\Saitynu API\obj\Debug\net5.0\Saitynu API.dll
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\API-repozitorija\Saitynu API\Saitynu API\obj\Debug\net5.0\ref\Saitynu API.dll
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\API-repozitorija\Saitynu API\Saitynu API\obj\Debug\net5.0\Saitynu API.pdb
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\API-repozitorija\Saitynu API\Saitynu API\obj\Debug\net5.0\Saitynu API.genruntimeconfig.cache
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\Repozitorija\saitynai\Saitynu API\Saitynu API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\Repozitorija\saitynai\Saitynu API\Saitynu API\bin\Debug\net5.0\appsettings.json
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\Repozitorija\saitynai\Saitynu API\Saitynu API\bin\Debug\net5.0\Saitynu API.exe
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\Repozitorija\saitynai\Saitynu API\Saitynu API\bin\Debug\net5.0\Saitynu API.deps.json
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\Repozitorija\saitynai\Saitynu API\Saitynu API\bin\Debug\net5.0\Saitynu API.runtimeconfig.json
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\Repozitorija\saitynai\Saitynu API\Saitynu API\bin\Debug\net5.0\Saitynu API.runtimeconfig.dev.json
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\Repozitorija\saitynai\Saitynu API\Saitynu API\bin\Debug\net5.0\Saitynu API.dll
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\Repozitorija\saitynai\Saitynu API\Saitynu API\bin\Debug\net5.0\ref\Saitynu API.dll
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\Repozitorija\saitynai\Saitynu API\Saitynu API\bin\Debug\net5.0\Saitynu API.pdb
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\Repozitorija\saitynai\Saitynu API\Saitynu API\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\Repozitorija\saitynai\Saitynu API\Saitynu API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\Repozitorija\saitynai\Saitynu API\Saitynu API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\Repozitorija\saitynai\Saitynu API\Saitynu API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\Repozitorija\saitynai\Saitynu API\Saitynu API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\Repozitorija\saitynai\Saitynu API\Saitynu API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\Repozitorija\saitynai\Saitynu API\Saitynu API\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\Repozitorija\saitynai\Saitynu API\Saitynu API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\Repozitorija\saitynai\Saitynu API\Saitynu API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\Repozitorija\saitynai\Saitynu API\Saitynu API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\Repozitorija\saitynai\Saitynu API\Saitynu API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\Repozitorija\saitynai\Saitynu API\Saitynu API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\Repozitorija\saitynai\Saitynu API\Saitynu API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\Repozitorija\saitynai\Saitynu API\Saitynu API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\Repozitorija\saitynai\Saitynu API\Saitynu API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\Repozitorija\saitynai\Saitynu API\Saitynu API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\Repozitorija\saitynai\Saitynu API\Saitynu API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\Repozitorija\saitynai\Saitynu API\Saitynu API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\Repozitorija\saitynai\Saitynu API\Saitynu API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\Repozitorija\saitynai\Saitynu API\Saitynu API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\Repozitorija\saitynai\Saitynu API\Saitynu API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\Repozitorija\saitynai\Saitynu API\Saitynu API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\Repozitorija\saitynai\Saitynu API\Saitynu API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\Repozitorija\saitynai\Saitynu API\Saitynu API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\Repozitorija\saitynai\Saitynu API\Saitynu API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\Repozitorija\saitynai\Saitynu API\Saitynu API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\Repozitorija\saitynai\Saitynu API\Saitynu API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\Repozitorija\saitynai\Saitynu API\Saitynu API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\Repozitorija\saitynai\Saitynu API\Saitynu API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\Repozitorija\saitynai\Saitynu API\Saitynu API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\Repozitorija\saitynai\Saitynu API\Saitynu API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\Repozitorija\saitynai\Saitynu API\Saitynu API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\Repozitorija\saitynai\Saitynu API\Saitynu API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\Repozitorija\saitynai\Saitynu API\Saitynu API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\Repozitorija\saitynai\Saitynu API\Saitynu API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\Repozitorija\saitynai\Saitynu API\Saitynu API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\Repozitorija\saitynai\Saitynu API\Saitynu API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\Repozitorija\saitynai\Saitynu API\Saitynu API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\Repozitorija\saitynai\Saitynu API\Saitynu API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\Repozitorija\saitynai\Saitynu API\Saitynu API\obj\Debug\net5.0\Saitynu API.csproj.AssemblyReference.cache
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\Repozitorija\saitynai\Saitynu API\Saitynu API\obj\Debug\net5.0\Saitynu API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\Repozitorija\saitynai\Saitynu API\Saitynu API\obj\Debug\net5.0\Saitynu API.AssemblyInfoInputs.cache
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\Repozitorija\saitynai\Saitynu API\Saitynu API\obj\Debug\net5.0\Saitynu API.AssemblyInfo.cs
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\Repozitorija\saitynai\Saitynu API\Saitynu API\obj\Debug\net5.0\Saitynu API.csproj.CoreCompileInputs.cache
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\Repozitorija\saitynai\Saitynu API\Saitynu API\obj\Debug\net5.0\Saitynu API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\Repozitorija\saitynai\Saitynu API\Saitynu API\obj\Debug\net5.0\staticwebassets\Saitynu API.StaticWebAssets.Manifest.cache
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\Repozitorija\saitynai\Saitynu API\Saitynu API\obj\Debug\net5.0\staticwebassets\Saitynu API.StaticWebAssets.xml
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\Repozitorija\saitynai\Saitynu API\Saitynu API\obj\Debug\net5.0\scopedcss\bundle\Saitynu API.styles.css
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\Repozitorija\saitynai\Saitynu API\Saitynu API\obj\Debug\net5.0\Saitynu API.RazorTargetAssemblyInfo.cache
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\Repozitorija\saitynai\Saitynu API\Saitynu API\obj\Debug\net5.0\Saitynu API.csproj.CopyComplete
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\Repozitorija\saitynai\Saitynu API\Saitynu API\obj\Debug\net5.0\Saitynu API.dll
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\Repozitorija\saitynai\Saitynu API\Saitynu API\obj\Debug\net5.0\ref\Saitynu API.dll
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\Repozitorija\saitynai\Saitynu API\Saitynu API\obj\Debug\net5.0\Saitynu API.pdb
+C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\Repozitorija\saitynai\Saitynu API\Saitynu API\obj\Debug\net5.0\Saitynu API.genruntimeconfig.cache

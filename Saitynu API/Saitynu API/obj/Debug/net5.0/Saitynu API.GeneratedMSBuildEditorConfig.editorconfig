@@ -6,3 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.PublishSingleFile = 
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = Saitynu_API
+build_property.ProjectDir = C:\Users\Aidas\Desktop\Septintas pusmetis\Saitynai\API projektas\Repozitorija\saitynai\Saitynu API\Saitynu API\
